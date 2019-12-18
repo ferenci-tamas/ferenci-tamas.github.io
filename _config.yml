@@ -8,3 +8,7 @@ description: Valószínűségszámítás, statisztika, biostatisztika, R program
 url: "https://tamas-ferenci.github.io/"
 plugins:
   - jekyll-sitemap
+minima:
+  social_links:
+    github:  jekyll
+    facebook: jekyll

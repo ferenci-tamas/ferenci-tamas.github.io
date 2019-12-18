@@ -5,3 +5,5 @@ author: Ferenci Tamás
 email: tamas.ferenci@medstat.hu
 title: Ferenci Tamás elektronikus jegyzetei
 description: Valószínűségszámítás, statisztika, biostatisztika, R programcsomag
+plugins:
+  - jekyll-sitemap

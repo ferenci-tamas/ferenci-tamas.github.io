@@ -1,4 +1,4 @@
-Ferenci Tamás elektronikus jegyzetei (valószínűségszámítás, statisztika, biostatisztika, R programcsomag)
+Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika, R programcsomag).
 
 - [Ferenci Tamás: A valószínűségszámítás és a statisztika alapvonalai](https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/).
 - [Ferenci Tamás: Bevezetés az R statisztikai programcsomag használatába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesAzRStatisztikaiProgramcsomagHasznalataba/).

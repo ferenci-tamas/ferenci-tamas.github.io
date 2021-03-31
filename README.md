@@ -5,6 +5,7 @@ Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika
 - [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/).
 - [Ferenci Tamás: Simítás, spline-regresszió, additív modellek](https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/).
 - [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/).
+- [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/).
 
 <!-- Default Statcounter code for Ferenci Tamás
 elektronikus jegy https://tamas-ferenci.github.io/ -->

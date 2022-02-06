@@ -17,9 +17,10 @@ var sc_security="d32cce24";
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
 async></script>
-<noscript><div class="statcounter"><a title="látogató
-számláló" href="https://www.statcounter.hu/"
+<noscript><div class="statcounter"><a title="ingyen
+webstatisztika" href="https://www.statcounter.hu/"
 target="_blank"><img class="statcounter"
 src="https://c.statcounter.com/12422840/0/d32cce24/1/"
-alt="látogató számláló"></a></div></noscript>
+alt="ingyen webstatisztika"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->

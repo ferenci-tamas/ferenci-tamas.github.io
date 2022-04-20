@@ -1,4 +1,4 @@
-Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika, R programcsomag).
+Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika, R programcsomag):
 
 - [Ferenci Tamás: A valószínűségszámítás és a statisztika alapvonalai](https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/).
 - [Ferenci Tamás: Bevezetés az R statisztikai programcsomag használatába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesAzRStatisztikaiProgramcsomagHasznalataba/).
@@ -6,6 +6,8 @@ Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika
 - [Ferenci Tamás: Simítás, spline-regresszió, additív modellek](https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/).
 - [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/).
 - [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/).
+
+A YouTube-csatornám előadás- és gyakorlat-videókkal a [https://www.youtube.com/c/FerenciTamas](https://www.youtube.com/c/FerenciTamas) címen érhető el, a honlapom a [http://www.medstat.hu/](http://www.medstat.hu/) címen.
 
 <!-- Default Statcounter code for Ferenci Tamás
 elektronikus jegy https://tamas-ferenci.github.io/ -->

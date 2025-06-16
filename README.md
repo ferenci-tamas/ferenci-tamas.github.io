@@ -1,6 +1,6 @@
 Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika, R programcsomag):
 
-- [Ferenci Tamás: A valószínűségszámítás és a statisztika alapvonalai](https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/).
+- [Ferenci Tamás: A valószínűségszámítás és a statisztika alapvonalai](https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/).
 - [Ferenci Tamás: Bevezetés az R nyelv és statisztikai számítási környezet használatába](https://ferenci-tamas.github.io/r-nyelv/).
 - [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/).
 - [Ferenci Tamás: Simítás, spline-regresszió, additív modellek](https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/).

@@ -4,7 +4,7 @@ Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika
 - [Ferenci Tamás: Bevezetés az R nyelv és statisztikai számítási környezet használatába](https://ferenci-tamas.github.io/r-nyelv/).
 - [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/).
 - [Ferenci Tamás: Simítás, spline-regresszió, additív modellek](https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/).
-- [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/).
+- [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/).
 - [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/).
 
 A YouTube-csatornám előadás- és gyakorlat-videókkal a [https://www.youtube.com/@FerenciTamas](https://www.youtube.com/@FerenciTamas) címen érhető el, a honlapom a [http://www.medstat.hu/](http://www.medstat.hu/) címen.

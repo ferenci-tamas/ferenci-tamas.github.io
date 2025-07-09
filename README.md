@@ -5,7 +5,7 @@ Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika
 - [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/).
 - [Ferenci Tamás: Simítás, spline-ok, additív modellek](https://ferenci-tamas.github.io/simitas-spline/).
 - [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/).
-- [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/).
+- [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://ferenci-tamas.github.io/orvosi-megismeres-modszertana/).
 
 A YouTube-csatornám előadás- és gyakorlat-videókkal a [https://www.youtube.com/@FerenciTamas](https://www.youtube.com/@FerenciTamas) címen érhető el, a honlapom a [http://www.medstat.hu/](http://www.medstat.hu/) címen.
 

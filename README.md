@@ -2,7 +2,7 @@ Elektronikus jegyzetek (valószínűségszámítás, statisztika, biostatisztika
 
 - [Ferenci Tamás: A valószínűségszámítás és a statisztika alapvonalai](https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/).
 - [Ferenci Tamás: Bevezetés az R nyelv és statisztikai számítási környezet használatába](https://ferenci-tamas.github.io/r-nyelv/).
-- [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/).
+- [Ferenci Tamás: Bevezetés a biostatisztikába](https://tamas-ferenci.github.io/biostatisztika/).
 - [Ferenci Tamás: Simítás, spline-ok, additív modellek](https://ferenci-tamas.github.io/simitas-spline/).
 - [Ferenci Tamás: A klinikai gyógyszervizsgálatok alapjai](https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/).
 - [Ferenci Tamás: Az orvosi megismerés módszertana (és az orvosi kutatások kritikus értékelése)](https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/).
